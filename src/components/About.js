@@ -6,9 +6,9 @@ function About() {
   <div id="About">
     <h2>"About Me"</h2>
     <p>This is the information provided about react app</p>
-    <img>
+    <img
       src="image" alt="I made this"
-    </img> 
+    /> 
   </div>
   )
 }
